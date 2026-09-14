@@ -1,0 +1,10 @@
+prompt_name,question,answer,ground_truth,faithfulness,relevancy,completeness,clarity,overall,reasoning
+Prompt Singkat,Apa itu machine learning?,Jawaban dari Prompt Singkat,Referensi,0.707,0.765,0.757,0.73,0.699,Jawaban Prompt Singkat cukup baik.
+Prompt Singkat,Jelaskan perbedaan supervised dan unsupervised learning.,Jawaban dari Prompt Singkat,Referensi,0.686,0.676,0.779,0.73,0.732,Jawaban Prompt Singkat cukup baik.
+Prompt Singkat,Apa itu overfitting dalam machine learning?,Jawaban dari Prompt Singkat,Referensi,0.672,0.767,0.773,0.691,0.701,Jawaban Prompt Singkat cukup baik.
+Prompt Detail,Apa itu machine learning?,Jawaban dari Prompt Detail,Referensi,0.848,0.86,0.884,0.873,0.867,Jawaban Prompt Detail cukup baik.
+Prompt Detail,Jelaskan perbedaan supervised dan unsupervised learning.,Jawaban dari Prompt Detail,Referensi,0.891,0.844,0.847,0.867,0.877,Jawaban Prompt Detail cukup baik.
+Prompt Detail,Apa itu overfitting dalam machine learning?,Jawaban dari Prompt Detail,Referensi,0.909,0.85,0.882,0.889,0.853,Jawaban Prompt Detail cukup baik.
+Prompt ELI5,Apa itu machine learning?,Jawaban dari Prompt ELI5,Referensi,0.801,0.757,0.72,0.835,0.818,Jawaban Prompt ELI5 cukup baik.
+Prompt ELI5,Jelaskan perbedaan supervised dan unsupervised learning.,Jawaban dari Prompt ELI5,Referensi,0.821,0.77,0.726,0.808,0.786,Jawaban Prompt ELI5 cukup baik.
+Prompt ELI5,Apa itu overfitting dalam machine learning?,Jawaban dari Prompt ELI5,Referensi,0.752,0.79,0.716,0.831,0.776,Jawaban Prompt ELI5 cukup baik.
